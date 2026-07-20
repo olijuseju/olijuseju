@@ -12,7 +12,7 @@ I build vision systems that go from prototype to validated results. Currently wo
 
 ### 🛠️ Featured Projects
 - **[DocClean-Net](https://github.com/olijuseju/DocClean-Net)** — Document background removal with U-Net + classic OpenCV pipeline
-- **VideoCoche(https://github.com/olijuseju/tfg_videocoche)** — Autonomous robot car with PID control and 360° vision
+- **[VideoCoche](https://github.com/olijuseju/tfg_videocoche)** — Autonomous robot car with PID control and 360° vision
 
 ---
 
